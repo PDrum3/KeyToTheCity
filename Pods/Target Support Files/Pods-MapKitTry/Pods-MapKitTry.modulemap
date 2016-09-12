@@ -1,0 +1,6 @@
+framework module Pods_MapKitTry {
+  umbrella header "Pods-MapKitTry-umbrella.h"
+
+  export *
+  module * { export * }
+}
